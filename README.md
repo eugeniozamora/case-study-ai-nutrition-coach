@@ -235,3 +235,5 @@ The other projects here show product platforms, migrations and a solo launch. Th
 This repository is an **architectural case study**. It documents the system design, engineering decisions and delivery standards behind a production AI coaching platform. The production source code, prompts, infrastructure configuration, client data and all credentials remain in private repositories under intellectual-property and confidentiality obligations, and are not included here.
 
 I'm happy to walk through the architecture, trade-offs and implementation in more depth on a technical call.
+
+**[Book a meeting](https://calendar.app.google/5FeUeC4X1VBYt2bU6)** · [eugeniozamora.com](https://eugeniozamora.com) · [LinkedIn](https://www.linkedin.com/in/eugeniozamora/) · [GitHub](https://github.com/eugeniozamora)
