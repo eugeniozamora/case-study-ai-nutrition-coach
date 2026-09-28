@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Role** | Solutions Architect & Lead Backend Engineer (end-to-end: architecture, implementation, CI/CD, production ops) |
+| **Role** | Product & Delivery Lead: product definition, architecture decisions, delivery governance and QA, with Claude Code as the execution team ([PM-led, AI-executed delivery](https://github.com/eugeniozamora/pm-led-delivery)) |
 | **Tech Stack** | Python 3.13 · FastAPI · Anthropic Claude · Redis · Firebase Auth & Firestore · PostgreSQL + TimescaleDB · Docker · GitHub Actions |
 | **Target Platform** | REST API serving a public mobile/web app (B2C), a clinic-branded patient app (B2B2C), and a professional back-office (B2B) |
 | **Status / Impact** | Deployed to separate production and staging environments · 400+ commits since June 2025 · one API designed to serve three products |
@@ -226,13 +226,13 @@ Each of these decisions is written up as an **Architecture Decision Record** (Re
 
 ## Why This Is in the Portfolio
 
-The other projects here show product platforms, migrations and a solo launch. This one shows what happens when "add AI" has to work under real constraints: sensitive health data, GDPR, several clinics sharing one system, and a real API bill. Privacy is built into the architecture instead of promised in a policy. Every AI turn is measured for cost and latency. One API is designed to serve three products without data leaking between clinics.
+The other projects here show product platforms, migrations and a consumer launch. This one shows what happens when "add AI" has to work under real constraints: sensitive health data, GDPR, several clinics sharing one system, and a real API bill. Privacy is built into the architecture instead of promised in a policy. Every AI turn is measured for cost and latency. One API is designed to serve three products without data leaking between clinics.
 
 ---
 
 ## Portfolio & Intellectual Property Notice
 
-This repository is an **architectural case study**. It documents the system design, engineering decisions and delivery standards behind a deployed AI coaching platform. The production source code, prompts, infrastructure configuration, client data and all credentials remain in private repositories under intellectual-property and confidentiality obligations, and are not included here.
+This repository is an **architectural case study**. It documents the system design, engineering decisions and delivery standards behind a deployed AI coaching platform. The production source code, prompts, infrastructure configuration and all credentials remain in private repositories under intellectual-property and confidentiality obligations, and are not included here.
 
 I'm happy to walk through the architecture, trade-offs and implementation in more depth on a technical call.
 
