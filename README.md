@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Role** | Product & Program Lead: product definition, architecture decisions, program governance and QA, with Claude Code as the execution team ([Idea to Launch method](https://github.com/eugeniozamora/idea-to-launch)) |
+| **Role** | Program Manager: product definition, architecture decisions, program governance and QA, with Claude Code as the execution team ([Idea to Launch method](https://github.com/eugeniozamora/idea-to-launch)) |
 | **Tech Stack** | Python 3.13 · FastAPI · Anthropic Claude · Redis · Firebase Auth & Firestore · PostgreSQL + TimescaleDB · Docker · GitHub Actions |
 | **Target Platform** | REST API serving a public mobile/web app (B2C), a clinic-branded patient app (B2B2C), and a professional back-office (B2B) |
 | **Status / Impact** | Deployed to separate production and staging environments · 400+ commits since June 2025 · one API designed to serve three products |
